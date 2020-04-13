@@ -64,6 +64,20 @@
           "n": 17
         }
       },
+      "Iona1": {
+        "name": "Iona1 (Iona the Unseen)",
+        "type": "wardude",
+        "fury": 7,
+        "base": "small",
+        "img": [
+          {
+            "link": "/data/model/orboros/locks/Iona1.png"
+          }
+        ],
+        "damage": {
+          "n": 16
+        }
+      },
       "Kaya1": {
         "name": "Kaya1 (Kaya the Wildborne)",
         "fk_name": "Kaya the Wildborne",
